@@ -1,0 +1,27 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body
+{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.cmath{
+    background-color: azure;
+    width: 80%;
+
+}
+.exemple{
+    font-weight: lighter;
+}
+
+p{
+    text-align: left;
+    width:80%;
+}
+
+h1{
+    font-variant: small-caps;
+    font-weight: 700;
+}
